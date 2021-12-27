@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace PostsEComentarios
 {
@@ -6,7 +7,8 @@ namespace PostsEComentarios
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
+
         }
     }
 }
